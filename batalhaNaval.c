@@ -15,7 +15,7 @@ int main() {
     // Coordenadas iniciais escolhidas diretamente no código:
     int linhaHorizontal = 2, colunaHorizontal = 4; // Navio horizontal começando em (2,4)
     int linhaVertical = 5, colunaVertical = 7;     // Navio vertical começando em (5,7)
-
+ 
     // ===== Posicionamento do navio horizontal =====
     // O navio ocupa TAMANHO_NAVIO casas consecutivas na mesma linha
     for (int i = 0; i < TAMANHO_NAVIO; i++) {
