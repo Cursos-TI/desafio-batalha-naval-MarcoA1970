@@ -4,7 +4,7 @@
 #define TAMANHO_NAVIO 3
 
 int main() {
-    // Declaração da matriz que representa o tabuleiro (10x10).
+    // Declaração da matriz que representa o tabuleiro (10x10) .
     // Inicialmente, todas as posições recebem 0 (água).
     int tabuleiro[TAMANHO_TABULEIRO][TAMANHO_TABULEIRO] = {0};
 
